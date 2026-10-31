@@ -1,5 +1,5 @@
 {
-  "version": "1.7",
+  "version": "1.8",
   "url": "https://raw.githubusercontent.com/sbhan3967-png/weighing-scale-updates/main/Weighing-Scale-Software.zip",
-  "notes": "v1.7: Return column is empty until the weighing-scale weight is entered. No pre-fill (not 0, not expected remaining); the Return window no longer shows an expected figure — type the scale print weight, press Enter, and that exact weight fills Return. Returned boxes now stay on the Dashboard's Today's Boxes list (Status RETURNED) so the filled Return stays visible on the day's sheet. Includes v1.6 (keyboard-first, hidden Box ID, Return/Sell Amount/Bill No. columns), v1.5 (GOLD/SILVER), v1.4 (client installer), v1.3 (sale Mode/Amount/Bill No.), v1.2 (no cmd window), v1.1 (Ramanand Jewellers, gold icon)."
+  "notes": "v1.8 FIX: app opens then closes in a second. Startup is now crash-proof: one failing tab cannot close the app, any startup crash writes crash_log.txt and shows a message instead of closing silently, auto-update no longer prompts/closes the app on launch (update only from Backup tab, with zip validation before closing and guaranteed restart after applying), plus a new Weighing-Scale-Safe.bat. Includes v1.7 (empty Return), v1.6 (keyboard-first), v1.5 (GOLD/SILVER), v1.4 (client installer), v1.3 (sale Mode/Amount/Bill No.), v1.2 (no cmd window), v1.1 (Ramanand Jewellers, gold icon)."
 }
