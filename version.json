@@ -1,5 +1,5 @@
 {
-  "version": "1.5",
+  "version": "1.6",
   "url": "https://raw.githubusercontent.com/sbhan3967-png/weighing-scale-updates/main/Weighing-Scale-Software.zip",
-  "notes": "v1.5: Box identification — every box is now GOLD or SILVER. New Metal dropdown in the Box Out panel (defaults GOLD), Metal shown in Active Boxes, Daily Entries, Reports (with a Metal filter), Box History and the daily Excel file (new Metal column + METAL-WISE TOTALS). Old databases upgrade automatically; old boxes show blank Metal. Includes v1.4 (client-PC installer), v1.3 (sale Mode/Amount/Bill No.), v1.2 (no cmd window) and v1.1 (Ramanand Jewellers, gold icon)."
+  "notes": "v1.6: Keyboard-first Dashboard (customer preference, like their manual sheet). Tab/Enter/Esc, Up/Down to pick a box, S=Sale, A=Stock, R=Return, H=History, Alt+1-7 tabs, focus returns to Category after a Box Out save. Dashboard table changed: Box ID column hidden, Remaining column removed and replaced by Return (actual returned weight), followed by Sell Amount and Bill No. Remaining is still calculated internally for the overweight check and still appears in History/Excel. Includes v1.5 (GOLD/SILVER), v1.4 (client installer), v1.3 (sale Mode/Amount/Bill No.), v1.2 (no cmd window), v1.1 (Ramanand Jewellers, gold icon)."
 }
