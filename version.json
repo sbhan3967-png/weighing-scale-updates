@@ -1,5 +1,5 @@
 {
-  "version": "1.4",
+  "version": "1.5",
   "url": "https://raw.githubusercontent.com/sbhan3967-png/weighing-scale-updates/main/Weighing-Scale-Software.zip",
-  "notes": "v1.4: Client-PC install now installs ALL prerequisites automatically. Setup.bat installs Python 3.12 if missing (winget, else python.org, no admin, Store stub ignored), checks tkinter + sqlite3, installs openpyxl from the bundled wheels folder (works offline, falls back to online pip), runs an app self-check (python app.py --check), then creates the data folders and desktop shortcut. Includes v1.3 (sale Mode/Amount/Bill No.), v1.2 (no cmd window) and v1.1 (Ramanand Jewellers, gold icon)."
+  "notes": "v1.5: Box identification — every box is now GOLD or SILVER. New Metal dropdown in the Box Out panel (defaults GOLD), Metal shown in Active Boxes, Daily Entries, Reports (with a Metal filter), Box History and the daily Excel file (new Metal column + METAL-WISE TOTALS). Old databases upgrade automatically; old boxes show blank Metal. Includes v1.4 (client-PC installer), v1.3 (sale Mode/Amount/Bill No.), v1.2 (no cmd window) and v1.1 (Ramanand Jewellers, gold icon)."
 }
