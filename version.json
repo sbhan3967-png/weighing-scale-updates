@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "url": "https://raw.githubusercontent.com/sbhan3967-png/weighing-scale-updates/main/Weighing-Scale-Software.zip",
-  "notes": "v1.1: Showroom renamed to RAMANAND JEWELLERS (existing installs on the old default are migrated automatically). New gold weighing-scale app icon in the window and on the desktop shortcut. GitHub auto-update built in: the app now checks this repo on launch and offers one-click updates."
+  "notes": "v1.2: Fixed the cmd window staying open. The launcher now uses pythonw.exe (windowless Python) and the desktop shortcut runs a hidden launcher, so no black cmd window opens or stays open with the app. Closing the app no longer depends on a cmd window. Everything else unchanged from v1.1 (Ramanand Jewellers, gold app icon, GitHub auto-update)."
 }
