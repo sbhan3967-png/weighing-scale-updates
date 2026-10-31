@@ -1,5 +1,5 @@
 {
-  "version": "1.6",
+  "version": "1.7",
   "url": "https://raw.githubusercontent.com/sbhan3967-png/weighing-scale-updates/main/Weighing-Scale-Software.zip",
-  "notes": "v1.6: Keyboard-first Dashboard (customer preference, like their manual sheet). Tab/Enter/Esc, Up/Down to pick a box, S=Sale, A=Stock, R=Return, H=History, Alt+1-7 tabs, focus returns to Category after a Box Out save. Dashboard table changed: Box ID column hidden, Remaining column removed and replaced by Return (actual returned weight), followed by Sell Amount and Bill No. Remaining is still calculated internally for the overweight check and still appears in History/Excel. Includes v1.5 (GOLD/SILVER), v1.4 (client installer), v1.3 (sale Mode/Amount/Bill No.), v1.2 (no cmd window), v1.1 (Ramanand Jewellers, gold icon)."
+  "notes": "v1.7: Return column is empty until the weighing-scale weight is entered. No pre-fill (not 0, not expected remaining); the Return window no longer shows an expected figure — type the scale print weight, press Enter, and that exact weight fills Return. Returned boxes now stay on the Dashboard's Today's Boxes list (Status RETURNED) so the filled Return stays visible on the day's sheet. Includes v1.6 (keyboard-first, hidden Box ID, Return/Sell Amount/Bill No. columns), v1.5 (GOLD/SILVER), v1.4 (client installer), v1.3 (sale Mode/Amount/Bill No.), v1.2 (no cmd window), v1.1 (Ramanand Jewellers, gold icon)."
 }
