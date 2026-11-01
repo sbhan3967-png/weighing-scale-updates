@@ -1,5 +1,4 @@
 {
-  "version": "1.31",
-  "url": "https://raw.githubusercontent.com/sbhan3967-png/weighing-scale-updates/main/Weighing-Scale-Software.zip",
-  "notes": "v1.31: Dropdown-based search for Box Category and Salesperson (and Attendance Salesperson) — the field is a normal dropdown with its arrow again; type any part (RING, CHAIN, LAD RING) and the dropdown list itself filters to ranked matches, then click the arrow, press Down, or press B to drop it down and pick. Typing is never auto-filled. Space types a real space while searching, jumps to the table only when empty. Includes v1.30 (Edit Sale, Split Payment with red-blinking warning, Mettler Enter save, typed-numbers fix) and all earlier versions."
+  "version": "1.32",
+  "notes": "ACTIVE rows blink red; Sale payment is a vertical mode column with auto total (Cash 60000 + UPI 40000 = 100000); Box Out Enter moves field to field and Enter in Opening Weight saves; Category/Salesperson dropdown auto-drops on typing (G shows GENTS CHAIN + GENTS RING)."
 }
