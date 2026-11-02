@@ -1,4 +1,4 @@
 {
-  "version": "1.33",
-  "notes": "Fixed live MCX rates showing OFFLINE when rates go UP: parser now accepts '+' changes (+292, +0.21%) as well as '-' changes."
+  "version": "1.34",
+  "notes": "Monthly attendance showcase in Attendance tab: whole month grid (P/A/L/H per day) with per-person totals, plus Export Monthly Excel. Attendance was already stored in the database; this adds the monthly view."
 }
