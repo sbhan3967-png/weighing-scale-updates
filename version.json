@@ -1,4 +1,4 @@
 {
-  "version": "1.36",
-  "notes": "Check for Updates fix: a failed check no longer shows as 'Up to date' — it now says 'Could not reach update server' with the reason, waits up to 20 seconds, and tries a second GitHub address. Includes all of v1.35 (metal buttons, silver carry-forward, 3 decimals, B fix)."
+  "version": "1.37",
+  "notes": "Smart Box Category autocomplete: B focuses Category, typing drops down prefix matches (case-insensitive), arrows/Enter/Escape work, no-match message shown, Enter again proceeds. Dashboard ALL/GOLD/SILVER table filter. Silver daily carry-forward and gold clean slate included."
 }
