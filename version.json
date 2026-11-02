@@ -1,4 +1,4 @@
 {
-  "version": "1.35",
-  "notes": "Metal GOLD/SILVER buttons in Box Out; silver boxes show Remaining instead of Return and carry yesterday's remaining to today's opening automatically; all weights to 3 decimals; B key only focuses Box Category, typing then fetches the dropdown."
+  "version": "1.36",
+  "notes": "Check for Updates fix: a failed check no longer shows as 'Up to date' — it now says 'Could not reach update server' with the reason, waits up to 20 seconds, and tries a second GitHub address. Includes all of v1.35 (metal buttons, silver carry-forward, 3 decimals, B fix)."
 }
