@@ -1,4 +1,4 @@
 {
-  "version": "1.34",
-  "notes": "Monthly attendance showcase in Attendance tab: whole month grid (P/A/L/H per day) with per-person totals, plus Export Monthly Excel. Attendance was already stored in the database; this adds the monthly view."
+  "version": "1.35",
+  "notes": "Metal GOLD/SILVER buttons in Box Out; silver boxes show Remaining instead of Return and carry yesterday's remaining to today's opening automatically; all weights to 3 decimals; B key only focuses Box Category, typing then fetches the dropdown."
 }
