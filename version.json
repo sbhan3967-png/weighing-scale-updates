@@ -1,5 +1,5 @@
 {
-  "version": "1.39",
+  "version": "1.40",
   "url": "https://raw.githubusercontent.com/sbhan3967-png/weighing-scale-updates/main/Weighing-Scale-Software.zip",
-  "notes": "Edit Box (Ctrl+E) / Delete Box (Delete key) for a single box row, Metal back to dropdown in Box Out, Payment mode totals (CASH/UPI/CARD etc., split sales broken down) in the Excel report."
+  "notes": "Update check now checks 3 addresses (raw GitHub, github.com raw, jsDelivr) and takes the newest version, so a stale cache can't hide an update. Includes v1.39: Edit/Delete Box, Metal dropdown, Payment mode totals in Excel."
 }
