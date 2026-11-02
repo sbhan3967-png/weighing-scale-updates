@@ -1,4 +1,4 @@
 {
-  "version": "1.32",
-  "notes": "ACTIVE rows blink red; Sale payment is a vertical mode column with auto total (Cash 60000 + UPI 40000 = 100000); Box Out Enter moves field to field and Enter in Opening Weight saves; Category/Salesperson dropdown auto-drops on typing (G shows GENTS CHAIN + GENTS RING)."
+  "version": "1.33",
+  "notes": "Fixed live MCX rates showing OFFLINE when rates go UP: parser now accepts '+' changes (+292, +0.21%) as well as '-' changes."
 }
