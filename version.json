@@ -1,4 +1,4 @@
 {
-  "version": "1.37",
-  "notes": "Smart Box Category autocomplete: B focuses Category, typing drops down prefix matches (case-insensitive), arrows/Enter/Escape work, no-match message shown, Enter again proceeds. Dashboard ALL/GOLD/SILVER table filter. Silver daily carry-forward and gold clean slate included."
+  "version": "1.38",
+  "notes": "Backspace fix: while the Box Category dropdown is open, Backspace/Delete and typing more letters now go back to the input (delete last letter, re-filter, no mouse needed). Arrows/Enter/Escape in the dropdown still work. Includes all of v1.37."
 }
