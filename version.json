@@ -1,5 +1,5 @@
 {
-  "version": "1.44",
+  "version": "1.45",
   "url": "https://raw.githubusercontent.com/sbhan3967-png/weighing-scale-updates/main/Weighing-Scale-Software.zip",
-  "notes": "Enter to save now works with numeric keypad Enter too (was only main Enter): Box Out chain Category->Salesperson->Metal->Opening->Save, plus Save button. Includes v1.43 + v1.42 + v1.41 + v1.40 + v1.39 features."
+  "notes": "Focus goes back to Box Category after Save/Enter on Opening Weight, category text selected so typing a new category replaces it, Enter keeps old category. Includes v1.44 + v1.43 + v1.42 + v1.41 + v1.40 + v1.39 features."
 }
