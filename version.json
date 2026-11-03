@@ -1,5 +1,5 @@
 {
-  "version": "1.43",
+  "version": "1.44",
   "url": "https://raw.githubusercontent.com/sbhan3967-png/weighing-scale-updates/main/Weighing-Scale-Software.zip",
-  "notes": "New box category from Box Out: + New Category button next to Box Category adds and selects a new category at once, no Settings visit. Includes v1.42 + v1.41 + v1.40 + v1.39 features."
+  "notes": "Enter to save now works with numeric keypad Enter too (was only main Enter): Box Out chain Category->Salesperson->Metal->Opening->Save, plus Save button. Includes v1.43 + v1.42 + v1.41 + v1.40 + v1.39 features."
 }
