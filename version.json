@@ -1,5 +1,5 @@
 {
-  "version": "1.41",
+  "version": "1.42",
   "url": "https://raw.githubusercontent.com/sbhan3967-png/weighing-scale-updates/main/Weighing-Scale-Software.zip",
-  "notes": "Silver carry-forward is now per-box: every ACTIVE silver box carries its remaining as its own new box next day, even if several share the same category + salesperson. Includes v1.40 + v1.39 features."
+  "notes": "Rate premium in Settings: Gold Premium (Rs/10g) and Silver Premium (Rs/1kg); banner shows MCX + premium as one single rate. Includes v1.41 + v1.40 + v1.39 features."
 }
