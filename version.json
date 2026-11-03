@@ -1,5 +1,5 @@
 {
-  "version": "1.40",
+  "version": "1.41",
   "url": "https://raw.githubusercontent.com/sbhan3967-png/weighing-scale-updates/main/Weighing-Scale-Software.zip",
-  "notes": "Update check now checks 3 addresses (raw GitHub, github.com raw, jsDelivr) and takes the newest version, so a stale cache can't hide an update. Includes v1.39: Edit/Delete Box, Metal dropdown, Payment mode totals in Excel."
+  "notes": "Silver carry-forward is now per-box: every ACTIVE silver box carries its remaining as its own new box next day, even if several share the same category + salesperson. Includes v1.40 + v1.39 features."
 }
