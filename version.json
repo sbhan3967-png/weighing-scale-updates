@@ -1,5 +1,5 @@
 {
-  "version": "1.42",
+  "version": "1.43",
   "url": "https://raw.githubusercontent.com/sbhan3967-png/weighing-scale-updates/main/Weighing-Scale-Software.zip",
-  "notes": "Rate premium in Settings: Gold Premium (Rs/10g) and Silver Premium (Rs/1kg); banner shows MCX + premium as one single rate. Includes v1.41 + v1.40 + v1.39 features."
+  "notes": "New box category from Box Out: + New Category button next to Box Category adds and selects a new category at once, no Settings visit. Includes v1.42 + v1.41 + v1.40 + v1.39 features."
 }
